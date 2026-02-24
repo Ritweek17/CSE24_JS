@@ -39,3 +39,12 @@ if(sym1 === sym2){
 }else{
     console.log("sym1 and sym2 are not equal");
 }
+
+
+//for loop
+
+var i;
+for(i=0;i<5;i++){ 
+    console.log(i);
+}
+
