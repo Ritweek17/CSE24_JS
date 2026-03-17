@@ -1,6 +1,6 @@
 // object 
 var person = {
-    name : john Mac , 
+    name : john , 
     age : 30 ,
     isMarried : true ,
     address : {
